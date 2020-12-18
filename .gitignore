@@ -1,0 +1,7 @@
+# eclipse stuff
+.settings/
+
+# build artifacts
+build/
+deploy/
+target/
